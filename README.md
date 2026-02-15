@@ -161,7 +161,7 @@ resume-refactorer/
 Recommended approach:
 
 ```bash
-git clone https://github.com/<your-username>/resume-refactorer.git
+git clone https://github.com/ashlesha-shrikhande/resume-refactorer.git
 cd resume-refactorer
 docker compose up -d
 ```
